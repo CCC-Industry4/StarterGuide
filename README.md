@@ -1,28 +1,41 @@
 # CCC Industry 4.0 Instructor Training
 ---
+## Sponsored by the National Science Foundation (Award Number: 2202201)
+**Instructors:** Matthew Graff and William (Bill) Kerney  
+**Student Workers:** Neiro Cabrera, Meagan Eggert, Julian Perry Laxamana, Gurkaran Singh  
+**School:** Clovis Community College in Fresno, California
+
+## Project Description
+The purpose of this project is to introduce concepts related to the Fourth Industrial Revolution and Industry 4.0 at minimal cost. It is tailored for demonstrations at the high school level and offers more in-depth training opportunities at the college level. Moreover, this demo serves as an ideal starting point for anyone interested in learning through hands-on experience with a functional prototype.  
+
+This repository will provide instructions for setting up a system to create an Internet of Things (IoT) using Arduino ESP32s as clients and a Raspberry Pi as an MQTT Broker, integrated with SCADA using Ignition by Inductive Automation. The README will guide you through recreating this demonstration using the specified components, followed by a brief tutorial.
+
+---
 ## Table Of Contents
 
 ### If you are starting with unconfigured components…
-Initialize Router	5
-Building Smart home	8
-Initialize Raspberry Pi	9
-Cloning github repository on the Pi	9
-Downloading Ignition Gateway on the Pi	9
-Installing MQTT Modules on Ignition	10
-Configuring MQTT Engine Module on Ignition	10
-Ignition Licenses for Education	10
-Object Detection using YOLOv5	11
-Training YOLOv5	11
-Using Industry 4.0 Project System for Training Students	12
-Set-up Raspberry Pi, Arduino Smart Home, and PC	12
-Configure camera object detection	14
-Instruction to teacher: Divide into pairs. One person reads/researches each step, while the other performs the actions. Each pair will work independently with their own Smart Home setup.	15
-Configure Smart Home	15
-Operation Smart Home Neighborhood	17
-Troubleshooting	19
-Ethernet - Verify settings using Windows PC using ethernet cable	19
-Ethernet - Verify connectivity and data transfer	21
-Troubleshooting Chart- In development	24
-Opto 22- Configuring MQTT on Ignition and Groov-Epic-PR1	25
+- [Initialize Router](01_initializing_router.md)  
+- [Building Smart home](02_building_smart_home.md)
+- [Initialize Raspberry Pi](03_initialize_raspberry_pi.md)
+  -  [Cloning github repository on the Pi]()
+  -  [Downloading Ignition Gateway on the Pi]()
+  -  [Installing MQTT Modules on Ignition]()
+  -  [Configuring MQTT Engine Module on Ignition]()
+  -  [Ignition Licenses for Education]()
+  -  [Object Detection using YOLOv5]()
+  -  [Training YOLOv5]()
+### Using Industry 4.0 Project System for Training Students  
+- [Set-up Raspberry Pi, Arduino Smart Home, and PC]()  
+- [Configure camera object detection]()
+
+> Instruction to teacher: Divide into pairs. One person reads/researches each step,  while the other performs the actions. Each pair will work independently with their  own Smart Home setup.
+
+- [Configure Smart Home]()
+- [Operation Smart Home Neighborhood]()
+- [Troubleshooting]()
+  -  [Ethernet - Verify settings using Windows PC using ethernet cable]()  
+  -  [Ethernet - Verify connectivity and data transfer]()
+  -  [Troubleshooting Chart- In development]()  
+  -  [Opto 22- Configuring MQTT on Ignition and Groov-Epic-PR1]()  
 
 ---
