@@ -30,9 +30,9 @@ This repository will provide instructions for setting up a system to create an I
 
 > Instruction to teacher: Divide into pairs. One person reads/researches each step,  while the other performs the actions. Each pair will work independently with their  own Smart Home setup.
 
-- [Configure Smart Home](04_configure_smart_home)
-- [Operation Smart Home Neighborhood](05_operation_smart_home_neighborhood)
-- [Troubleshooting](06_troubleshooting)
+- [Configure Smart Home](04_configure_smart_home.md)
+- [Operation Smart Home Neighborhood](05_operation_smart_home_neighborhood.md)
+- [Troubleshooting](06_troubleshooting.md)
   -  [Ethernet - Verify settings using Windows PC using ethernet cable]()  
   -  [Ethernet - Verify connectivity and data transfer]()
   -  [Troubleshooting Chart- In development]()  
