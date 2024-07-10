@@ -25,8 +25,8 @@ This repository will provide instructions for setting up a system to create an I
   -  [Object Detection using YOLOv5]()
   -  [Training YOLOv5]()
 ### Using Industry 4.0 Project System for Training Students  
-- [Set-up Raspberry Pi, Arduino Smart Home, and PC](04_setup_raspberry_pi)  
-- [Configure camera object detection](05_configure_camera)
+- [Set-up Raspberry Pi, Arduino Smart Home, and PC](04_setup_raspberry_pi.md)  
+- [Configure camera object detection](05_configure_camera.md)
 
 > Instruction to teacher: Divide into pairs. One person reads/researches each step,  while the other performs the actions. Each pair will work independently with their  own Smart Home setup.
 
