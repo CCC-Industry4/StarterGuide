@@ -1,5 +1,6 @@
 # Setup Raspberry Pi, Arduino Smart Home, and PC
 ---
+[Back to Table of Contents](README.md)
 1. **Plug-in / Power Up**  Raspberry Pi. During power up the system is loading the SCADA software on the Pi.  After about three minutes the following screen will appear on the web browser.
 
    *While the system is starting up, take the opportunity to research what a SCADA system is.  Also you can watch this video by Inductive Automation about the SCADA system we are using called Ignition.  The platform of this system would cost ~$20,000 for industry, but thankfully Inductive Automation is freely sharing this software for educational purposes.*
