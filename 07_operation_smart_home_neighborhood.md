@@ -1,6 +1,6 @@
 # Operation Smart Home Neighborhood
 ---
-[Back to Table of Contents](README.md#Table%of%Contents)
+[Back to Table of Contents]
 
 *Instruction to teacher: Divide into pairs. One person reads/researches each step, while the other performs the actions. Each pair will work independently with their own Smart Home setup.*
 
