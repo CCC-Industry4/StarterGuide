@@ -1,4 +1,6 @@
 [Back to Table of Contents](README.md)
+
+*Instruction to teacher: Divide into pairs. One person reads/researches each step, while the other performs the actions.*
 # Troubleshooting
 Ethernet - Verify settings using Windows PC using ethernet cable
 1. Search “ethernet settings” using Windows search bar.
