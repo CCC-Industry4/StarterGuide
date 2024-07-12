@@ -3,9 +3,9 @@
 Please this this [Helpful Link](https://www.tomshardware.com/how-to/static-ip-raspberry-pi) on how to Set a Static IP Address on Raspberry Pi
 
 In order to run the project, you must have a router to avoid firewalls. The way we chose to do this was to buy a cheap router and configure it to this setting:  
-  **Name:** IT4 Project  
-  **Password:** IOT12345  
-  **LAN IP Address:** 192.168.10.1  
+   **Name:** IT4 Project  
+   **Password:** IOT12345  
+   **LAN IP Address:** 192.168.10.1  
 
 
 The Raspberry Pi must also be configured with a static IP address. You can either do that through the router or dhcpcd.conf file. A helpful article for the second method is included in the link above.  
