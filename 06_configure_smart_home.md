@@ -12,8 +12,8 @@ Password: IOT12345
   -  Ask your instructor for the neighborhood and home number:
       -  Neighborhood number- should be the same for the whole class.
       -  Home number- must be unique for each home in the neighborhood.
-  -  In industrial systems data is organized into a unified naming format following the ISA 95 standard:  
-> Enterprise→Site→Area→Line→Cell  
+  -  In industrial systems data is organized into a unified naming format following the ISA 95 standard:
+    		Enterprise→Site→Area→Line→Cell  
   -  Research Unified Name Space (UNS) and the ISA 95 standard.  ([Here](https://www.hivemq.com/resources/smart-manufacturing-using-isa95-mqtt-sparkplug-and-uns/) is more info at HiveMQ website.
   -  The namespace structure for the Smart Homes on this system is
 > Smart Homes Inc/Neighborhood #/Home#
