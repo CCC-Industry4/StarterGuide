@@ -1,4 +1,6 @@
 [Back to Table of Contents](README.md)
+
+*Instruction to teacher: Divide into pairs. One person reads/researches each step, while the other performs the actions. Each pair will work independently with their own Smart Home setup.*
 # Configure Smart Home
 ---
 1. Connect the demonstration PC to the Pi. Wi-Fi can be used on a PC or smartphone. The disadvantages of using Wi-Fi are that you will lose access to the internet. Connect to the following:
