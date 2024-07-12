@@ -1,6 +1,6 @@
 # Initialize Router
 ---
-[Helpful Link](https://www.tomshardware.com/how-to/static-ip-raspberry-pi)
+Please this this [Helpful Link](https://www.tomshardware.com/how-to/static-ip-raspberry-pi) on how to Set a Static IP Address on Raspberry Pi
 
 In order to run the project, you must have a router to avoid firewalls. The way we chose to do this was to buy a cheap router and configure it to this setting:  
 > **Name:** IT4 Project  
