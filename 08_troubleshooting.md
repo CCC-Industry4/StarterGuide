@@ -14,3 +14,48 @@ Ethernet - Verify settings using Windows PC using ethernet cable
 ![Internet Protocol Version 4 (TCP-IPv4) Properties](https://github.com/user-attachments/assets/4287082b-46f7-495e-994e-c55a2cc08b14)
 8. Restore Session by pressing button or use following link: http://192.168.10.2:8088/data/perspective/client/I4Project/smarthome 
 
+
+Ethernet - Verify connectivity and data transfer
+
+1. The image illustrates data transfer between applications using Ethernet. For more details, refer to the source website. This chart is also valuable for troubleshooting, pinpointing where issues may arise. Troubleshooting starts from the physical layer at the bottom and progresses upward through the application layer.
+![ieb23protocol1](https://github.com/user-attachments/assets/a2bcc21b-4e64-4a1d-9d79-986144985ba6)
+
+Open the Command Prompt Window.  If you have a hard time locating the Command Prompt Window search ‘CMD’ in the Windows search bar.  
+If you have questions about specific commands you hand type the command listed followed by `-help`.
+To stop a command from running, press `Ctrl + C`.
+
+Physical Layer- To ensure the Physical Layer is working:
+Verify that the Ethernet cable is securely plugged in.
+Check that the link status LEDs on the network interface are illuminated or flashing.
+If using Wi-Fi, ensure that the device is connected to the desired SSID (e.g., IOTProject).
+
+
+Data Link Layer- To test the Data Link Layer:
+Use commands like `ipconfig` (or `ifconfig` on Linux or Raspberry Pi) to inspect network interface configurations.
+
+Please note that under Ethernet, this computer is connected with an IPv4 address of 192.168.10.160. Each computer will receive a unique IP address. Check your computer's IP address, which should start with 192.168.10..., but the last three numbers will vary. If you are connected via Wi-Fi to the system, check under the Wi-Fi adapter. In the example above, the Wi-Fi is connected to the internet, not to the local system.
+Use the `ping` command to verify connectivity with other devices on the network.  In the case of our system the following devices have static IP addresses:
+Device
+IP Address
+Router
+192.168.10.1
+Raspberry PI
+192.168.10.2
+Camera
+192.168.10.3
+
+
+
+To test connection to the router type  `ping 192.168.10.1`.
+
+Test connections with other items in the system.
+Try pinging any random ip address starting with the same ‘192.168.10.’ ending with any number from 1-255.  What do you see happen?
+Network Layer- The Network Layer manages logical addressing and routing:
+Verify routing tables using the `route` command on Windows or `netstat -r` on Linux. Routing tables contain information about network paths and direct traffic to its destination efficiently. Checking these tables helps diagnose connectivity issues and ensures proper routing configuration across the network infrastructure.  
+Transport Layer- The Transport Layer ensures reliable data transfer between devices:
+Use utilities like `netstat` or `ss` to check TCP and UDP connections. To stop a command from running, press `Ctrl + C`.
+Test TCP connectivity with tools like Telnet or SSH, and UDP with tools like `nc` (netcat).
+Application Layer- The Application Layer supports end-user applications and services:
+Check application-specific settings and configurations (e.g., web browser settings for HTTP).
+Use application-specific troubleshooting tools or logs (e.g., web server access logs).
+In the case of the I4.0 Project use the Ignition SCADA to verify functionality.
