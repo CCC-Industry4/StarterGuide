@@ -20,7 +20,7 @@
       ![ignition startup screen on PC](https://github.com/user-attachments/assets/10e17458-41e5-4a77-a428-c2e7e99c5f6c)
 
 5. **Plug-In / Power-up** Arduino Smart Home. During power-up you should see messages displayed on the LCD (Liquid Crystal Display) screen.  If the smart home successfully connects you should see something similar to the following screen:
-   ![LCD with URL](https://github.com/user-attachments/assets/8713b5dd-6cb8-4f6a-990e-1630c37bc96d)
+   ![LCD with home1](https://github.com/user-attachments/assets/dbc486ff-e386-4b9a-9d64-f6a5fb12a5ba)
 
 6. **Success?** The Ignition screens should automatically display the first smart home connected.
    ![ignition screen on PC](https://github.com/user-attachments/assets/89a4afed-ebfe-4b05-8104-41651c89fba7)
