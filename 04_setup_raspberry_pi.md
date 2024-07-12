@@ -15,8 +15,10 @@
       - **Password:** IOT12345
 4. **Open a web browser** on PC using this link:  
    http://192.168.10.2:8088/data/perspective/client/I4Project/smarthome
-5. You should now have a screen that looks like the screen on the Pi.
-6. **Plug-In / Power-up** Arduino Smart Home. During power-up you should see messages displayed on the LCD (Liquid Crystal Display) screen.  If the smart home successfully connects you should see something similar to the following screen:
-7. **Success?** The Ignition screens should automatically display the first smart home connected.
-8. **Troubleshooting** If you see the count increasing simultaneously on the house and on the SCADA system on the web browser, you have successfully set-up Pi, Arduino Smart Home and PC.  If not, you must figure out what is not working correctly.
+   ![ignition screen on PC](https://github.com/user-attachments/assets/fb3fdc78-70bb-4064-bdf7-ab34218fb21c)
+
+6. You should now have a screen that looks like the screen on the Pi.
+7. **Plug-In / Power-up** Arduino Smart Home. During power-up you should see messages displayed on the LCD (Liquid Crystal Display) screen.  If the smart home successfully connects you should see something similar to the following screen:
+8. **Success?** The Ignition screens should automatically display the first smart home connected.
+9. **Troubleshooting** If you see the count increasing simultaneously on the house and on the SCADA system on the web browser, you have successfully set-up Pi, Arduino Smart Home and PC.  If not, you must figure out what is not working correctly.
 *Instruction to the teacher: Conduct the following activities as a class. Choose one student to read aloud the instructions below. Assign other students to carry out the steps to configure the camera for object detection.*
