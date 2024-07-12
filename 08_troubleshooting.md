@@ -21,7 +21,7 @@ Ethernet - Verify settings using Windows PC using ethernet cable
 
 Ethernet - Verify connectivity and data transfer
 
-1. The image illustrates data transfer between applications using Ethernet. For more details, refer to the source website. This chart is also valuable for troubleshooting, pinpointing where issues may arise. Troubleshooting starts from the physical layer at the bottom and progresses upward through the application layer.
+1. The image illustrates data transfer between applications using Ethernet. For more details, refer to the source website (https://iebmedia.com/technology/looking-behind-the-automation-protocols/). This chart is also valuable for troubleshooting, pinpointing where issues may arise. Troubleshooting starts from the physical layer at the bottom and progresses upward through the application layer.
 
 ![ieb23protocol1](https://github.com/user-attachments/assets/a2bcc21b-4e64-4a1d-9d79-986144985ba6)
 
