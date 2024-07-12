@@ -6,9 +6,11 @@ SSID (service set identifier): IT4Project
 Password: IOT12345
 2. Plug in and powerup Smart Home.
 3. Connect to the IP address displayed on the Smart Home's LCD using a web browser.
+	![LCD with URL](https://github.com/user-attachments/assets/20d608ce-9460-4981-9556-bf0110ec71fb)
 
 4. Configure namespace of Smart Home using a web browser.
-	
+	![Smart home Configuration page](https://github.com/user-attachments/assets/0bb1f52b-d9cf-4b7e-99d9-571dc50d6e99)
+
   -  Ask your instructor for the neighborhood and home number:
       -  Neighborhood number- should be the same for the whole class.
       -  Home number- must be unique for each home in the neighborhood.
