@@ -17,3 +17,4 @@ Gas sensor to the io23
 Buzzer sensor to the io25
 Servo controlling windows to io5
 Servo controlling doors to the io13
+---
