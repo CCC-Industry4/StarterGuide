@@ -8,7 +8,7 @@
 ## Project Description
 The purpose of this project is to introduce concepts related to the Fourth Industrial Revolution and Industry 4.0 at minimal cost. It is tailored for demonstrations at the high school level and offers more in-depth training opportunities at the college level. Moreover, this demo serves as an ideal starting point for anyone interested in learning through hands-on experience with a functional prototype.  
 
-This repository will provide instructions for setting up a system to create an Internet of Things (IoT) using Arduino ESP32s as clients and a Raspberry Pi as an MQTT Broker, integrated with SCADA using Ignition by Inductive Automation. The README will guide you through recreating this demonstration using the specified components, followed by a brief tutorial.
+This repository will provide instructions for setting up a system to create an Internet of Things (IoT) using Arduino ESP32s as clients and a [Raspberry Pi](https://www.raspberrypi.org/) as an MQTT Broker, integrated with SCADA using [Ignition by Inductive Automation](https://inductiveautomation.com/ignition/). The README will guide you through recreating this demonstration using the specified components, followed by a brief tutorial.
 
 ---
 ## Table Of Contents
