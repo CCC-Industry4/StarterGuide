@@ -1,6 +1,6 @@
+[Back to Table of Contents](README.md)
 # Configure camera object detection
 ---
-[Back to Table of Contents](README.md)
 1. **Plug-In / Power-up** Arduino Smart Camera.
 2. **Configure camera** by accessing the configuration screen via a web browser: 
   http://192.168.10.3
