@@ -1,4 +1,5 @@
 [Back to Table of Contents](README.md)
+
 *Instruction to the teacher: Conduct the following activities as a class. Choose one student to read aloud the instructions below. Assign other students to carry out the steps to set-up the Raspberry Pi, Smart Home, and PC.*
 # Setup Raspberry Pi, Arduino Smart Home, and PC
 ---
