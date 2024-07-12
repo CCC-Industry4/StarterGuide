@@ -19,27 +19,34 @@ Input default password: goodlife
 3. Access the web Admin Panel:
 Open a web Browser (Chrome, Firefox are recommended) and visit http://192.168.8.1.
 
-  -Language Settings - Choose the display language of the Admin Panel and Click Next.
+  -Language Settings
+  Choose the display language of the Admin Panel and Click Next.
   ![Language setup](https://github.com/user-attachments/assets/1830b3e0-0f96-4d02-aea8-b64372de4759)
 
-
 - Admin Password Setting:
-- There is no default password for the Admin Panel. Set password to IOT12345 and click Submit.
-- Admin Panel
-- After the initial setup, the web Admin Panel of the Router will be displayed.
+There is no default password for the Admin Panel. Set password to IOT12345 and click Submit.
 
-Setup SSID and Password:
+![Set Admin Password](https://github.com/user-attachments/assets/8effbd3c-3d8e-4743-ab11-0103094865ac)
+
+- Admin Panel
+  After the initial setup, the web Admin Panel of the Router will be displayed.
+  ![Admin Panel](https://github.com/user-attachments/assets/b4844aa0-ecd5-4a3d-9857-fcdccbea025a)
+
+
+4. Setup SSID and Password:
 Select Wireless from the Menu on Left side and click Modify
 
+![Wireless tab](https://github.com/user-attachments/assets/a9b74e23-2bac-4b25-970b-2cab5e9c2ddb)
 
 
 Change Wifi-Name (SSID) to IT4 Project
 Set Wi-Fi Key to: IOT12345
 Click Apply.
 The Wifi-Name and password should be set. Reconnect to the Wi-Fi using the new login.
-Setup IP Address:
+5. Setup IP Address:
 Under More Settings, select LAN IP, from the left menu bar.
 Change the LAN IP to 192.168.10.1, Click Apply.
+![IP address](https://github.com/user-attachments/assets/c995fd3f-d428-4661-b2b4-d025aa5efec7)
 
 The Router is now correctly set up. The admin Web page will now be accessed by visiting http://192.168.10.1.
 
