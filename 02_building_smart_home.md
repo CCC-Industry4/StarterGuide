@@ -1,3 +1,4 @@
+[Back to Table of Contents](README.md)
 # Building Smart Home
 ---
 1. For instructions on building Smart home see: https://docs.keyestudio.com/projects/KS5009/en/latest/docs/index.html
