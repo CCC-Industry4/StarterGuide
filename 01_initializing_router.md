@@ -9,7 +9,7 @@ In order to run the project, you must have a router to avoid firewalls. The way 
 
 
 The Raspberry Pi must also be configured with a static IP address. You can either do that through the router or dhcpcd.conf file. A helpful article for the second method is included in the link above.  
-The router being used for this project is GL.iNet Shadow (GL-AR300M16-Ext), but most any router could be used.
+The router being used for this project is [GL.iNet Shadow]([GL-AR300M16-Ex](https://store-us.gl-inet.com/products/gl-ar300m16-mini-smart-router)t), but most any router could be used.
 The steps to setup the router are as follows:  
 1. Power on: Plug the micro USB power cable into the power port of the router using a standard 5V/2A power adapter.
 2. Connect via Wi-Fi:
