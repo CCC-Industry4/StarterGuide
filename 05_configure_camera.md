@@ -1,4 +1,5 @@
 [Back to Table of Contents](README.md)
+*Instruction to the teacher: Conduct the following activities as a class. Choose one student to read aloud the instructions below. Assign other students to carry out the steps to configure the camera for object detection.*
 # Configure camera object detection
 ---
 1. **Plug-In / Power-up** Arduino Smart Camera.
