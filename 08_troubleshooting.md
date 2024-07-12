@@ -1,3 +1,4 @@
+[Back to Table of Contents](README.md)
 # Troubleshooting
 Ethernet - Verify settings using Windows PC using ethernet cable
 1. Search “ethernet settings” using Windows search bar.
