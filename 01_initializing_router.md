@@ -18,7 +18,9 @@ GL-AR300M-XXX-NOR
 Input default password: goodlife
 3. Access the web Admin Panel:
 Open a web Browser (Chrome, Firefox are recommended) and visit http://192.168.8.1.
-Language Settings
+-Language Settings
+![Language setup](https://github.com/user-attachments/assets/1830b3e0-0f96-4d02-aea8-b64372de4759)
+
 Choose the display language of the Admin Panel and Click Next.
 - Admin Password Setting:
 - There is no default password for the Admin Panel. Set password to IOT12345 and click Submit.
