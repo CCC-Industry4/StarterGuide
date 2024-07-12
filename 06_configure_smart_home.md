@@ -1,6 +1,6 @@
+[Back to Table of Contents](README.md)
 # Configure Smart Home
 ---
-[Back to Table of Contents](README.md)
 1. Connect the demonstration PC to the Pi. Wi-Fi can be used on a PC or smartphone. The disadvantages of using Wi-Fi are that you will lose access to the internet. Connect to the following:
 SSID (service set identifier): IT4Project
 Password: IOT12345
