@@ -19,8 +19,8 @@ Input default password: goodlife
 3. Access the web Admin Panel:
 Open a web Browser (Chrome, Firefox are recommended) and visit http://192.168.8.1.
 
--Language Settings - Choose the display language of the Admin Panel and Click Next.
-![Language setup](https://github.com/user-attachments/assets/1830b3e0-0f96-4d02-aea8-b64372de4759)
+  -Language Settings - Choose the display language of the Admin Panel and Click Next.
+  ![Language setup](https://github.com/user-attachments/assets/1830b3e0-0f96-4d02-aea8-b64372de4759)
 
 
 - Admin Password Setting:
