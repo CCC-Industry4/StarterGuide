@@ -1,4 +1,4 @@
-[Back to Table of Contents](README.md)
+[Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 
 *Instruction to teacher: Divide into pairs. One person reads/researches each step, while the other performs the actions.*
 # Troubleshooting
