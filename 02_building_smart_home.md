@@ -1,4 +1,4 @@
-[Back to Table of Contents](README.md)
+[Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 # Building Smart Home
 ---
 1. For instructions on building Smart home see: https://docs.keyestudio.com/projects/KS5009/en/latest/docs/index.html
