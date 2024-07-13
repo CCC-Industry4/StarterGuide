@@ -1,4 +1,4 @@
-[Back to Table of Contents](README.md)
+[Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 
 *Instruction to the teacher: Conduct the following activities as a class. Choose one student to read aloud the instructions below. Assign other students to carry out the steps to configure the camera for object detection.*
 # Configure camera object detection
