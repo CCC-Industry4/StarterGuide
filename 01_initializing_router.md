@@ -1,4 +1,4 @@
-[Back to Table of Contents](README.md)
+[Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 # Initialize Router
 ---
 Please this this [Helpful Link](https://www.tomshardware.com/how-to/static-ip-raspberry-pi) on how to Set a Static IP Address on Raspberry Pi
