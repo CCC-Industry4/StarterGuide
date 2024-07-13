@@ -1,4 +1,4 @@
-[Back to Table of Contents](README.md)
+[Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 # Initialize Raspberry Pi
 # Cloning github repository on the Pi
 1. Begin by cloning this repo in your Linux terminal: git clone https:https://github.com/CCC-Industry4/IIOT-4.0-Project
