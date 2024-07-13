@@ -1,4 +1,4 @@
-[Back to Table of Contents](README.md)
+[Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 
 *Instruction to the teacher: Conduct the following activities as a class. Choose one student to read aloud the instructions below. Assign other students to carry out the steps to set-up the Raspberry Pi, Smart Home, and PC.*
 # Setup Raspberry Pi, Arduino Smart Home, and PC
