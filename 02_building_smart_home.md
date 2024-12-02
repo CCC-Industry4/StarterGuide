@@ -27,7 +27,6 @@
 4. The Arduino directory contains the required libraries and Arduino code for the home: [Arduino Code and Libraries](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main/Arduino)
 
   A. Arduino IDE Setup:
-
     If the Arduino IDE is not installed and set up, follow these steps:
 
       I. **Install the driver**  
