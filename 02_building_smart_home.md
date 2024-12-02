@@ -26,20 +26,19 @@
 
 4. The Arduino directory contains the required libraries and Arduino code for the home: [Arduino Code and Libraries](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main/Arduino)
 
- A. Arduino IDE Setup:
+  A. Arduino IDE Setup:
 
- If the Arduino IDE is not installed and set up, follow these steps:
+    If the Arduino IDE is not installed and set up, follow these steps:
 
-  I. **Install the driver**  
-  II. **Add the ESP32 Environment**  
-  III. The libraries for this project require a previous version of the ESP32 environment.  
-  IV. Ensure **version 1.0.6** is installed by navigating to `Tools > Boards > Boards Manager`  
-  ![Arduino IDE Board Manager](https://github.com/user-attachments/assets/fac6e1c6-107c-4fe6-b8f3-d1a12cbf5253)  
-  V. Select **ESP32 Dev Module** as the board: `Tools > Board > esp32 > ESP32 Dev Module`
+      I. **Install the driver**  
+      II. **Add the ESP32 Environment**  
+      III. The libraries for this project require a previous version of the ESP32 environment.  
+      IV. Ensure **version 1.0.6** is installed by navigating to `Tools > Boards > Boards Manager`  
+         ![Arduino IDE Board Manager](https://github.com/user-attachments/assets/fac6e1c6-107c-4fe6-b8f3-d1a12cbf5253)  
+      V. Select **ESP32 Dev Module** as the board: `Tools > Board > esp32 > ESP32 Dev Module`
 
- B. Include all the libraries in the `libs` folder into the Arduino IDE.
+  B. Include all the libraries in the `libs` folder into the Arduino IDE.
 
- C. Upload the **Arduino.ino** file to the Smart Home system.
-
+  C. Upload the **Arduino.ino** file to the Smart Home system.
 
 ---
