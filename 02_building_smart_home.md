@@ -7,7 +7,7 @@
 1. **Instructions for building the Smart Home:**
    - See the official [Keyestudio Smart Home Guide](https://docs.keyestudio.com/projects/KS5009/en/latest/docs/index.html).
 
-2. **Downloading Libraries and Sample Code:**
+2. **Downloading Libraries and Sample Code:** (Optional)
    - Visit the [Keyestudio Smart Home Kit for ESP32 repository](https://github.com/keyestudio/KS5009-Keyestudio-Smart-Home-Kit-for-ESP32) to download necessary libraries and sample code.
 
 3. **Pin Connections:**
