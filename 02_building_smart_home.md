@@ -33,7 +33,16 @@
 
 -Servo controlling doors to the io13
 
-
+4.The Arduino directory contains the required libraries and the arduino code for the home.
+https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main/Arduino
+A. Visit the Arduino Tutorial section if the Arduino IDE is not installed and set up.
+I. Install driver
+II. Add the ESP32 Environment
+III. The libraries for this project are using a previous version of ESP32 environment.
+IV. Ensure version 1.0.6 is installed. Click Tools > Boards > Boards Manager.
 ![Arduino IDE Board Manager](https://github.com/user-attachments/assets/fac6e1c6-107c-4fe6-b8f3-d1a12cbf5253)
+V.Select ESP32 Dev Module as the board. Click Tools > Board > esp32 > ESP32 Dev Module. 
+B. Include all the libraries in the libs folder to Arduino IDE.
+C. Upload the Arduino.ino file to the smart home.
 
 ---
