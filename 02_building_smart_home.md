@@ -33,9 +33,9 @@
       I. **Install the driver**  
       II. **Add the ESP32 Environment**  
       III. The libraries for this project require a previous version of the ESP32 environment.  
-      IV. Ensure **version 1.0.6** is installed by navigating to `Tools > Boards > Boards Manager`  
+      IV. Ensure **version 1.0.6** is installed by navigating to `Tools > Boards > Boards Manager  
          ![Arduino IDE Board Manager](https://github.com/user-attachments/assets/fac6e1c6-107c-4fe6-b8f3-d1a12cbf5253)  
-      V. Select **ESP32 Dev Module** as the board: `Tools > Board > esp32 > ESP32 Dev Module`
+      V. Select **ESP32 Dev Module** as the board: `Tools > Board > esp32 > ESP32 Dev Module
 
   B. Include all the libraries in the `libs` folder into the Arduino IDE.
 
