@@ -43,11 +43,11 @@ If the Arduino IDE is not yet installed and set up, follow these steps:
       ![Arduino IDE Board Manager](https://github.com/user-attachments/assets/fac6e1c6-107c-4fe6-b8f3-d1a12cbf5253)
    5. Select **ESP32 Dev Module** as the board: `Tools > Board > esp32 > ESP32 Dev Module`
 
-    B. **Add Libraries to Arduino IDE:**
+    B. Add Libraries to Arduino IDE:
 
    - Include all the libraries from the `libs` folder into the Arduino IDE.
 
-    C. **Upload the Arduino Code:**
+    C. Upload the Arduino Code:
 
    - Upload the `Arduino.ino` file to your Smart Home system.
 
