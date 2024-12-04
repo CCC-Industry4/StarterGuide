@@ -36,12 +36,9 @@
 
 If the Arduino IDE is not yet installed and set up, follow these steps:
 
-   1. **Install the Driver**
-   2. **Add the ESP32 Environment**
-   3. The libraries for this project require an earlier version of the ESP32 environment.
-   4. Ensure **version 1.0.6** is installed by navigating to `Tools > Boards > Boards Manager`.  
-      ![Arduino IDE Board Manager](https://github.com/user-attachments/assets/fac6e1c6-107c-4fe6-b8f3-d1a12cbf5253)
-   5. Select **ESP32 Dev Module** as the board: `Tools > Board > esp32 > ESP32 Dev Module`
+   1. **Install the Driver** see: https://docs.keyestudio.com/projects/KS5009/en/latest/docs/Arduino/arduino.html
+   2. **Add the ESP32 Environment** See section 2.2 of the webpage above.
+   3. Select **ESP32 Dev Module** as the board: `Tools > Board > esp32 > ESP32 Dev Module`
 
     B. Add Libraries to Arduino IDE:
 
