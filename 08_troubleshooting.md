@@ -10,9 +10,10 @@ Ethernet - Verify settings using Windows PC using ethernet cable
    
 
 <p align="center">
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140537.png" width="45%" />
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Screenshot%202026-09-03%20140627.png" width="45%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/troubleshooting/TroubleshootingEthernet1.png" width="45%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/troubleshooting/TroubleshootingEthernet2.png" width="45%" />
 </p>
+
 
 
 3. Double click on Ethernet.
@@ -20,15 +21,15 @@ Ethernet - Verify settings using Windows PC using ethernet cable
    
    ![Ethernet Status](https://github.com/user-attachments/assets/e105e93d-9ab3-4ca1-9910-3e4b6637564c)
 
-4. Double click on Internet Protocol Version 4 (TCP/IPv4).
+5. Double click on Internet Protocol Version 4 (TCP/IPv4).
 
    ![Ethernet Prooperties](https://github.com/user-attachments/assets/62cd93aa-09f8-46f5-a0b1-928f7255cc72)
 
-5. Verify that “Obtain an IP address automatically” is selected.
+6. Verify that “Obtain an IP address automatically” is selected.
 
     ![Internet Protocol Version 4 (TCP-IPv4) Properties](https://github.com/user-attachments/assets/4287082b-46f7-495e-994e-c55a2cc08b14)
 
-6. Restore Session by pressing button or use following link: http://192.168.10.2:8088/data/perspective/client/I4Project/smarthome 
+7. Restore Session by pressing button or use following link: http://192.168.10.2:8088/data/perspective/client/I4Project/smarthome 
 
 
 Ethernet - Verify connectivity and data transfer
