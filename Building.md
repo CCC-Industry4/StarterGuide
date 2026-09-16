@@ -73,7 +73,7 @@ Find the following items:
 
 Use the M3 8MM Flat-head Screws and M3 Nuts for the battery holder.
 
-![alt text](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20J3.jpeg)
+![TemplateJ](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20J3.jpeg)
 
 Use the M4 8MM Flat-head Screws and M4 Nuts for the rest.
 
@@ -142,11 +142,11 @@ Find the following items:
 
 Rip off the layer covering it on both sides. Screw the 4 M1.4 6MM Self-tapping Screws from the bottom so the pointy part pokes out of the top.
 
-![TemplateFN](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN6.jpeg)
+![TemplateFN](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN6.png)
 
 Screw the M2 4MM Self-tapping Screw from the top into the hole of the servo. Make sure the gear is screwed on with the window in the closed position.
 
-![TemplateFn](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN7.jpeg)
+![TemplateFN](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN7.jpeg)
 
 
 **8. Put together the 'M' template:**
@@ -163,12 +163,11 @@ Find the following items:
 
 Screw the M3 6MM Round-head Screws into the Copper Pillars from the bottom.
 
-![TemplateM1](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20M3.jpeg)
+![TemplateM](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20M3.png)
 
 Align the ESP32 on top, then screw into the Copper Pillars from the top.
 
-
-![TemplateM1](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20M4.jpeg)
+![TemplateM](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20M4.jpeg)
 
 **9. Add on the servo:**
 
