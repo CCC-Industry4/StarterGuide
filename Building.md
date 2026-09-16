@@ -2,7 +2,7 @@
 
 # Building Guide
 
-**1. Put together the 'K' template.**
+**1. Put together the 'K' template:**
 
 Find the following items:
 - 12 C 1602 LCD Display Module
@@ -16,18 +16,18 @@ Find the following items:
 
 
 <p align="center">
-  <img src="Template%20K1.jpeg" width="48%" />
-  <img src="Template%20K3.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20K1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20K2.jpeg" width="48%" />
 </p>
 
 Use the M3 10MM Round-head Screws and M3 Nuts for the Display Module. Make sure you use M3 Nuts, not the M3 Self-locking Nuts. For reference, this is what M3 Self-locking Nuts look like:
 
 
-![SelfLockingNuts](<Self Locking Nuts-1.png>)
+![SelfLockingNuts](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Self%20Locking%20Nuts.png)
 
 Use the M4 8MM Round-head Screws and M4 Nuts to screw in the rest.
 
-![TemplateK](<Template K5.jpeg>)
+![TemplateK](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20K3.jpeg)
 
 
 **2. Put together the 'I' template:**
@@ -42,15 +42,15 @@ Find the following items:
 
 
 <p align="center">
-  <img src="Template%20I1.jpeg" width="48%" />
-  <img src="Template%20I2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20I1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20I2.jpeg" width="48%" />
 </p>
 
-![TemplateI](<Template I3.jpeg>)
+![TemplateI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20I3.jpeg)
 
 <p align="center">
-  <img src="Template%20I4.jpeg" width="48%" />
-  <img src="Template%20I5.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20I4.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20I5.jpeg" width="48%" />
 </p>
 
 
@@ -67,19 +67,19 @@ Find the following items:
 
 
 <p align="center">
-  <img src="Template%20J1.jpeg" width="48%" />
-  <img src="Template%20J2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20J1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20J2.jpeg" width="48%" />
 </p>
 
 Use the M3 8MM Flat-head Screws and M3 Nuts for the battery holder.
 
-![alt text](<Template J3.jpeg>)
+![alt text](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20J3.jpeg)
 
 Use the M4 8MM Flat-head Screws and M4 Nuts for the rest.
 
 <p align="center">
-  <img src="Template%20J4.jpeg" width="48%" />
-  <img src="Template%20J5.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20J4.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20J5.jpeg" width="48%" />
 </p>
 
 
@@ -91,11 +91,11 @@ Find the following items:
 - 1 RGB Module
 
 <p align="center">
-  <img src="Template%20H1.jpeg" width="48%" />
-  <img src="Template%20H2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20H1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20H2.jpeg" width="48%" />
 </p>
 
-![TemplateH](<Template H3.jpeg>)
+![TemplateH](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20H2.jpeg)
 
 **5. Put together the 'F' template:**
 
@@ -105,12 +105,12 @@ Find the following items:
 - 2 M2 12MM Round-head Screws
 
 <p align="center">
-  <img src="Template%20F1.jpeg" width="48%" />
-  <img src="Template%20F2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20F1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20F2.jpeg" width="48%" />
 </p>
 
-![TemplateF](<Template F3.jpeg>)
-![TemplateF](<Template F4.jpeg>)
+![TemplateF](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20F3.jpeg)
+![TemplateF](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20F4.jpeg)
 
 **6. Add on the 'N' template:**
 
@@ -120,13 +120,13 @@ Find the following items:
 - 4 M3 Self-locking Nuts
 
 <p align="center">
-  <img src="Template%20FN1.jpeg" width="48%" />
-  <img src="Template%20FN2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN2.jpeg" width="48%" />
 </p>
 
 Rip off the layer covering it on both sides. Do not use a screw to tighten. Instead, manually tighten it slightly from the back. It needs to be loose so the window can move smoothly.
 
-![TemplateFN](<Template FN3.jpeg>)
+![TemplateFN](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN3.jpeg)
 
 **7. Add on the 'P' gear:**
 
@@ -136,17 +136,17 @@ Find the following items:
 - 4 M1.4 6MM Self-tapping Screws
 
 <p align="center">
-  <img src="Template%20FN4.jpeg" width="48%" />
-  <img src="Template%20FN5.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN4.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN5.jpeg" width="48%" />
 </p>
 
 Rip off the layer covering it on both sides. Screw the 4 M1.4 6MM Self-tapping Screws from the bottom so the pointy part pokes out of the top.
 
-![TemplateFN](<Template FN6.png>)
+![TemplateFN](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN6.jpeg)
 
 Screw the M2 4MM Self-tapping Screw from the top into the hole of the servo. Make sure the gear is screwed on with the window in the closed position.
 
-![TemplateFn](<Template FN7.jpeg>)
+![TemplateFn](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN7.jpeg)
 
 
 **8. Put together the 'M' template:**
@@ -157,18 +157,18 @@ Find the following items:
 - 1 ESP32 PLUS V2.0
 
 <p align="center">
-  <img src="Template%20M1.jpeg" width="48%" />
-  <img src="Template%20M2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20M1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20M2.jpeg" width="48%" />
 </p>
 
 Screw the M3 6MM Round-head Screws into the Copper Pillars from the bottom.
 
-![TemplateM1](<Template M3.png>)
+![TemplateM1](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20M3.jpeg)
 
 Align the ESP32 on top, then screw into the Copper Pillars from the top.
 
 
-![TemplateM1](<Template M4.jpeg>)
+![TemplateM1](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20M4.jpeg)
 
 **9. Add on the servo:**
 
@@ -178,15 +178,15 @@ Find the following items:
 - 1 Keyestudio 180 degree Servo
 
 <p align="center">
-  <img src="Template%20MS1.jpeg" width="48%" />
-  <img src="Template%20MS2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MS1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MS2.jpeg" width="48%" />
 </p>
 
-![TemplateMS](<Template MS3.jpeg>)
+![TemplateMS](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MS3.jpeg)
 
 Screw the servo in from the back. 
 
-![TemplateMS](<Template MS4.jpeg>)
+![TemplateMS](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MS4.jpeg)
 
 
 **10. Add on the 'D' gear:**
@@ -197,17 +197,17 @@ Find the following items:
 - 1 Control horn (in a servo bag)
 
 <p align="center">
-  <img src="Template%20MD1.jpeg" width="48%" />
-  <img src="Template%20MD2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MD1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MD2.jpeg" width="48%" />
 </p>
 
 Screw the 4 M1.4 6MM Self-tapping Screws from the bottom so the pointy part pokes out of the top.
 
-![TemplateMD](<Template MD3.jpeg>)
+![TemplateMD](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MD3.jpeg)
 
 Screw the M2 4MM Self-tapping Screw from the top into the hole of the servo.
 
-![TemplateMD](<Template MD4.jpeg>)
+![TemplateMD](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MD4.jpeg)
 
 
 **11. Connect Template 'K' and 'F':**
@@ -299,24 +299,19 @@ Test if the "door" is able to move smoothly by moving it with your finger. If it
 
 **19. Add on the 'C' gear:**
 
-![TemplateC](<Template C1.jpeg>)
+![TemplateC](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20C1.jpeg)
 
 Move the "door" so it lines up with template 'C' as shown. Then, simply push the gear on.
 
-![TemplateC](<Template C2.jpeg>)
+![TemplateC](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20C2.jpeg)
 
+**20. Connect to Template 'L':**
 
+Find the following:
+- 2 T-shaped wooden connectors
 
+Add picture before connection
+Add picture after connection
 
-Wiring:
-
-
-
-
-
-![alt text](FanWiring.jpeg)
-![alt text](FanWiring2.jpeg)
-![alt text](FinishedWiring.jpeg)
-
-
+Add link to wiring part
 
