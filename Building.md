@@ -217,24 +217,23 @@ Find the following:
 
 The connectors are the same size and shape throughout all wooden templates, so it does not matter where you grab it from.
 
-![ConnectionFK](<Connection FK1.jpeg>)
-![ConnectionFK](<Connection FK2.jpeg>)
-![ConnectionFK](<Connection FK3.jpeg>)
+![ConnectionFK](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20FK1.jpeg)
+![ConnectionFK](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20FK2.jpeg)
+![ConnectionFK](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20FK3.jpeg)
 
 
 
 **12. Connect to Template 'A':**
 
-Find the following:
+Find the following:         
 - 1 T-shaped wooden connector
 
 <p align="center">
-  <img src="Connection%20A1.jpeg" width="48%" />
-  <img src="Connection%20A2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20A1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20A2.jpeg" width="48%" />
 </p>
 
-![ConnectionA](<Connection A3.jpeg>)
-
+![ConnectionA](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20A3.jpeg)
 
 
 **13. Connect to Template 'M' and 'H' and 'J':**
@@ -243,11 +242,11 @@ Align the templates as shown. It might be a bit difficult to do by yourself.
 
 
 <p align="center">
-  <img src="Connection%20MHJ1.jpeg" width="48%" />
-  <img src="Connection%20MHJ2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20MHJ1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20MHJ2.jpeg" width="48%" />
 </p>
 
-![ConnectionMHJ](<Connection MHJ3.jpeg>)
+![ConnectionMHJ](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20MHJ3.jpeg)
 
 
 **14. Secure the connection:**
@@ -255,34 +254,34 @@ Align the templates as shown. It might be a bit difficult to do by yourself.
 Find the following:
 - 2 T-shaped wooden connectors
 
-![ConnectionMHJ](<Connection MHJ4.jpeg>)
+![ConnectionMHJ](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20MHJ4.jpeg)
 
 
 **15. Connect to Template 'I':**
 
-![ConnectionI](<Connection I1.jpeg>)
+![ConnectionI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20I1.jpeg)
 
 **16. Secure the connection:**
 
 Find the following: 
 - 2 T-shaped wooden connectors
 
-![ConnectionI](<Connection I2.jpeg>)
+![ConnectionI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20I2.jpeg)
 
 **17. Connect to Template 'G' and 'E':**
 
 <p align="center">
-  <img src="Connection%20GE1.jpeg" width="48%" />
-  <img src="Connection%20GE2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE1.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE2.jpeg" width="48%" />
 </p>
 
 Slide the 'E' parts together so that they are lined up evenly without any gaps between them. If this "door" is not pushed together enough, the gap will result in the motor being unable to move the door properly. 
 
-![ConnectionGE](<Connection GE3.jpeg>)
+![ConnectionGE](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE3.jpeg)
 
 Line up the "door" into the hole on template 'G' and the hole on template 'M'. 
 
-![ConnectionGE](<Connection GE4.jpeg>)
+![ConnectionGE](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE4.jpeg)
 
 
 **18. Secure the connection:**
@@ -290,11 +289,11 @@ Line up the "door" into the hole on template 'G' and the hole on template 'M'.
 Find the following:
 - 6 T-shaped wooden connectors
 
-![ConnectionGE](<Connection GE5.jpeg>)
+![ConnectionGE](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE5.jpeg)
 
 Test if the "door" is able to move smoothly by moving it with your finger. If it is difficult to move, disconnect and push the 'E' parts together further. Reference step 17.
 
-![ConnectionGE](<Connection GE6.jpeg>)
+![ConnectionGE](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE6.jpeg)
 
 
 
