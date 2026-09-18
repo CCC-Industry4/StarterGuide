@@ -18,17 +18,17 @@
 ---
 
 **Inventory:**
-- 5 short Dupont Wires
-- 4 long Dupont Wires
+- 5 Short Dupont Wires
+- 4 Long Dupont Wires
 - 1 Spread out dupont wire batch
 - 2 Splicing Dupont Wires
 
 The left image shows the regular Dupont Wires, the middle image shows the Spread out dupont wire batch, and the right image shows the Splicing Dupont Wires.
 
 <p align="center">
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Power%20Wiring.png" width="30%" />
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Power%20Wiring.png" width="30%" />
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Power%20Wiring.png" width="30%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Dupont.jpeg" width="30%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Spread.jpeg" width="30%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Splicing.jpeg" width="30%" />
 </p>
 
 
@@ -53,7 +53,7 @@ Use a short Dupont Wire. Yellow LED Module: Pin IO12.
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I2.2.png" width="48%" />
 </p>
 
-Use a short Dupont Wire. Steam Sensor: Pin IO33. 
+Use a short Dupont Wire. Steam Sensor: Pin IO33. Although it says Pin IO34 on the Keyestudio guide, the ESP32 does not support the Sensor on that IO. We are using the steam sensor as a touch sensor in our case.
 
 <p align="center">
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I3.1.png" width="48%" />
