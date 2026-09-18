@@ -44,8 +44,8 @@ Find the following:
 Use a short Dupont Wire. Temperature and Humidity Sensor: Pin IO17.
 
 <p align="center">
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I1.1.png" width="48%" />
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I1.2.png" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I1.1.png" style=" width:48%;height: 250px; object-fit: cover;" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I1.2.png" style=" width:48%;height: 250px; object-fit: cover;" />
 </p>
 
 Use a short Dupont Wire. Yellow LED Module: Pin IO12.
