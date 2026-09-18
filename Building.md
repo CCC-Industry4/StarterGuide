@@ -40,8 +40,8 @@ Find the following items:
 
 
 <p align="center">
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20K1.jpeg" width="48%" />
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20K2.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20K1.jpeg" width="48%;height: 250px; object-fit: cover;" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20K2.jpeg" width="48%;height: 250px; object-fit: cover;" />
 </p>
 
 Use the M3 10MM Round-head Screws and M3 Nuts for the Display Module. Make sure you use M3 Nuts, not the M3 Self-locking Nuts. For reference, this is what M3 Self-locking Nuts look like:
