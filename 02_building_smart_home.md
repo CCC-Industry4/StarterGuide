@@ -5,18 +5,25 @@
 ---
 
 1. **Instructions for building the Smart Home:**
+   - See the [Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
    - See the official [Keyestudio Smart Home Guide](https://docs.keyestudio.com/projects/KS5009/en/latest/docs/index.html).
+
+    Keep in mind that the Keyestudio Guide incorrectly wired the Steam Sensor to IO34, it should be wired to IO33.
+    
+
 
 2. **Downloading Libraries and Sample Code:** (Optional)
    - Visit the [Keyestudio Smart Home Kit for ESP32 repository](https://github.com/keyestudio/KS5009-Keyestudio-Smart-Home-Kit-for-ESP32) to download necessary libraries and sample code.
 
 3. **Pin Connections:**
 
+    - See the [Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)
+
    Connect the following components to the corresponding pins on your ESP32 board:
 
    - **Temperature and Humidity Sensor**: Pin **IO17**
    - **Yellow LED Module**: Pin **IO12**
-   - **Steam Sensor (used as touch sensor)**: Pin **IO34**
+   - **Steam Sensor (used as touch sensor)**: Pin **IO33**
    - **Fan**: **IN-** to **IO18**, **IN+** to **IO19**
    - **PIR Motion Sensor**: Pin **IO14**
    - **Left Button Module**: Pin **IO16**
