@@ -6,13 +6,15 @@
 
 ## Table of Contents
 
-- [Template I Wiring - Temperature and Humidity Sensor, Yellow LED Module, Steam Sensor, Fan](#template-i)
-- [Template K Wiring - PIR Motion Sensor, Button Modules, RFID Module, LCD1602 Display](#template-k)
-- [Template H Wiring - 6812 RGB LED](#template-h)
-- [Template J Wiring - Gas Sensor, Buzzer Sensor](#template-j)
-- [Template F Wiring - Window Servo](#template-f)
-- [Template M Wiring - Door Servo](#template-m)
-- [Power Wiring - Plug In](#power-wiring)
+- [Wiring Guide](#wiring-guide)
+  - [Table of Contents](#table-of-contents)
+  - [**Template I:**](#template-i)
+  - [**Template K:**](#template-k)
+  - [**Template H:**](#template-h)
+  - [**Template J:**](#template-j)
+  - [**Template F:**](#template-f)
+  - [**Template M:**](#template-m)
+  - [**Power Wiring:**](#power-wiring)
 
 
 ---
@@ -26,7 +28,7 @@
 The left image shows the regular Dupont Wires, the middle image shows the Spread out dupont wire batch, and the right image shows the Splicing Dupont Wires.
 
 <p align="center">
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Dupont.jpeg" width="30%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Dupont.jpeg" width="30%;height: 250px; object-fit: cover;" />
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Spread.jpeg" width="30%" />
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Splicing.jpeg" width="30%" />
 </p>
