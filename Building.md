@@ -7,7 +7,7 @@
 
 ## Table of Contents
 
-| Steps 1 – 10 | Steps 11 – 20 |
+| Step 1 – 10 | Step 11 – 20 |
 | :--- | :--- |
 | - [Step 1. K Template](#1-put-together-the-k-template) | - [Step 11. Connect Template K and F](#11-connect-template-k-and-f) |
 | - [Step 2. I Template](#2-put-together-the-i-template) | - [Step 12. Connect Template A](#12-connect-to-template-a) |

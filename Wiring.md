@@ -40,6 +40,12 @@ Find the following:
 
 Use a short Dupont Wire. Temperature and Humidity Sensor: Pin IO17.
 
+<p align="center">
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I1.1.png" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I1.2.png" width="48%" />
+</p>
+
+
 ![TemplateI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I1.1.png)
 ![TemplateI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I1.2.png)
 
