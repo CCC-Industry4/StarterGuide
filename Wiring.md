@@ -179,9 +179,8 @@ Plug in the power from the battery holder to the ESP32.
 
 ![PowerWiring](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Power%20Wiring.png)
 
-This is what the finished wiring looks like:
 
-**Finished Product:**
+**Finished House:**
 
 ![FinishedWiring](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/FinishedWiring.jpeg)
 
