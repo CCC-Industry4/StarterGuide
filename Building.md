@@ -1,12 +1,34 @@
 [Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 
+[Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)
+
 # Building Guide
 
-Table of Contents
-- [1.](##1. Put together the 'K' template:)
+## Table of Contents
+- [Step 1.](#1-put-together-the-k-template)
+- [Step 2.](#2-put-together-the-i-template)
+- [Step 3.](#3-put-together-the-j-template)
+- [Step 4.](#4-put-together-the-h-template)
+- [Step 5.](#5-put-together-the-f-template)
+- [Step 6.](#6-add-on-the-n-template)
+- [Step 7.](#7-add-on-the-p-gear)
+- [Step 8.](#8-put-together-the-m-template)
+- [Step 9.](#9-add-on-the-servo)
+- [Step 10.](#10-add-on-the-d-gear)
+- [Step 11.](#11-connect-template-k-and-f)
+- [Step 12.](#12-connect-to-template-a)
+- [Step 13.](#13-connect-to-template-m-and-h-and-j)
+- [Step 14.](#14-secure-the-connection)
+- [Step 15.](#15-connect-to-template-i)
+- [Step 16.](#16-secure-the-connection)
+- [Step 17.](#17-connect-to-template-g-and-e)
+- [Step 18.](#18-secure-the-connection)
+- [Step 19.](#19-add-on-the-c-gear)
+- [Step 20.](#20-connect-to-template-l)
 
+---
 
-##1. Put together the 'K' template:
+## **1. Put together the 'K' template:**
 
 Find the following items:
 - 12 C 1602 LCD Display Module
@@ -34,7 +56,7 @@ Use the M4 8MM Round-head Screws and M4 Nuts to screw in the rest.
 ![TemplateK](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20K3.jpeg)
 
 
-**2. Put together the 'I' template:**
+## **2. Put together the 'I' template:**
 
 Find the following items: 
 - 8 M4 Nuts
@@ -58,7 +80,7 @@ Find the following items:
 </p>
 
 
-**3. Put together the 'J' template:**
+## **3. Put together the 'J' template:**
 
 Find the following items:
 - 1 Six section 5 size battery holder
@@ -87,7 +109,7 @@ Use the M4 8MM Flat-head Screws and M4 Nuts for the rest.
 </p>
 
 
-**4. Put together the 'H' template:**
+## **4. Put together the 'H' template:**
 
 Find the following items: 
 - 2 M4 Nuts
@@ -101,7 +123,7 @@ Find the following items:
 
 ![TemplateH](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20H2.jpeg)
 
-**5. Put together the 'F' template:**
+## **5. Put together the 'F' template:**
 
 Find the following items: 
 - 1 Keyestudio 180 degrees Servo
@@ -116,7 +138,7 @@ Find the following items:
 ![TemplateF](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20F3.jpeg)
 ![TemplateF](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20F4.jpeg)
 
-**6. Add on the 'N' template:**
+## **6. Add on the 'N' template:**
 
 Find the following items:
 - 1 Acrylic Board Labeled N
@@ -132,7 +154,7 @@ Rip off the layer covering it on both sides. Do not use a screw to tighten. Inst
 
 ![TemplateFN](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN3.jpeg)
 
-**7. Add on the 'P' gear:**
+## **7. Add on the 'P' gear:**
 
 Find the following items:
 - 1 Acrylic Gear Labled P
@@ -153,7 +175,7 @@ Screw the M2 4MM Self-tapping Screw from the top into the hole of the servo. Mak
 ![TemplateFN](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20FN7.jpeg)
 
 
-**8. Put together the 'M' template:**
+## **8. Put together the 'M' template:**
 
 Find the following items:
 - 4 M3 10MM Dual Pass Copper Pillar
@@ -173,7 +195,7 @@ Align the ESP32 on top, then screw into the Copper Pillars from the top.
 
 ![TemplateM](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20M4.jpeg)
 
-**9. Add on the servo:**
+## **9. Add on the servo:**
 
 Find the following items:
 - 2 M2 Nuts
@@ -192,7 +214,7 @@ Screw the servo in from the back.
 ![TemplateMS](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MS4.jpeg)
 
 
-**10. Add on the 'D' gear:**
+## **10. Add on the 'D' gear:**
 
 Find the following items:
 - 1 M2 4MM Self-tapping Screw (in a servo bag)
@@ -213,7 +235,7 @@ Screw the M2 4MM Self-tapping Screw from the top into the hole of the servo.
 ![TemplateMD](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20MD4.jpeg)
 
 
-**11. Connect Template 'K' and 'F':**
+## **11. Connect Template 'K' and 'F':**
 
 Find the following:
 - 1 T-shaped wooden connector
@@ -226,7 +248,7 @@ The connectors are the same size and shape throughout all wooden templates, so i
 
 
 
-**12. Connect to Template 'A':**
+## **12. Connect to Template 'A':**
 
 Find the following:         
 - 1 T-shaped wooden connector
@@ -239,7 +261,7 @@ Find the following:
 ![ConnectionA](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20A3.jpeg)
 
 
-**13. Connect to Template 'M' and 'H' and 'J':**
+## **13. Connect to Template 'M' and 'H' and 'J':**
 
 Align the templates as shown. It might be a bit difficult to do by yourself.
 
@@ -252,7 +274,7 @@ Align the templates as shown. It might be a bit difficult to do by yourself.
 ![ConnectionMHJ](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20MHJ3.jpeg)
 
 
-**14. Secure the connection:**
+## **14. Secure the connection:**
 
 Find the following:
 - 2 T-shaped wooden connectors
@@ -260,18 +282,18 @@ Find the following:
 ![ConnectionMHJ](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20MHJ4.jpeg)
 
 
-**15. Connect to Template 'I':**
+## **15. Connect to Template 'I':**
 
 ![ConnectionI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20I1.jpeg)
 
-**16. Secure the connection:**
+## **16. Secure the connection:**
 
 Find the following: 
 - 2 T-shaped wooden connectors
 
 ![ConnectionI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20I2.jpeg)
 
-**17. Connect to Template 'G' and 'E':**
+## **17. Connect to Template 'G' and 'E':**
 
 <p align="center">
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE1.jpeg" width="48%" />
@@ -287,7 +309,7 @@ Line up the "door" into the hole on template 'G' and the hole on template 'M'.
 ![ConnectionGE](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE4.jpeg)
 
 
-**18. Secure the connection:**
+## **18. Secure the connection:**
 
 Find the following:
 - 6 T-shaped wooden connectors
@@ -299,7 +321,7 @@ Test if the "door" is able to move smoothly by moving it with your finger. If it
 ![ConnectionGE](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE6.jpeg)
 
 
-**19. Add on the 'C' gear:**
+## **19. Add on the 'C' gear:**
 
 ![TemplateC](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20C1.jpeg)
 
@@ -307,7 +329,12 @@ Move the "door" so it lines up with template 'C' as shown. Then, simply push the
 
 ![TemplateC](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20C2.jpeg)
 
-**20. Connect to Template 'L':**
+## **20. Connect to Template 'L':**
+
+Connecting Template L is optional since it is easier to access the reset button with it off. Finish the wiring prior to attaching it.
+
+[Go to Wiring Guide:](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)
+
 
 Find the following:
 - 2 T-shaped wooden connectors
@@ -315,6 +342,4 @@ Find the following:
 ![Template L](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20L1.jpeg)
 ![Template L](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20L2.jpeg)
 
-
-
-[Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)
+---

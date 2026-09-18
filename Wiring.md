@@ -1,8 +1,20 @@
 [Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
+[Back to Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
 
 # Wiring Guide
 
-Inventory:
+## Table of Contents
+
+- [Template I](#template-i)
+- [Template](#template-k)
+- [Template](#template-h)
+- [Template](#template-j)
+- [Template](#template-f)
+- [Template](#template-m)
+- [Template](#power-wiring)
+
+
+**Inventory:**
 - 5 short Dupont Wires
 - 4 long Dupont Wires
 - 1 Spread out dupont wire batch
@@ -16,8 +28,9 @@ The left image shows the regular Dupont Wires, the middle image shows the Spread
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Power%20Wiring.png" width="30%" />
 </p>
 
+---
 
-**Template I:**
+## **Template I:**
 
 Find the following:
 - 3 short Dupont Wires
@@ -49,7 +62,7 @@ Use a Spread out dupont wire batch. IN- to IO18 and IN + to IO19. Wire as shown:
 ![TemplateI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I4.2.jpeg)
 
 
-**Template K:**
+## **Template K:**
 
 Find the following:
 - 1 short Dupont Wire
@@ -83,7 +96,7 @@ Use a Splicing Dupont Wire. LCD1602 Display: BUS I2C.
 ![TemplateK](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20K5.2.png)
 
 
-**Template H:**
+## **Template H:**
 
 Find the following:
 - 1 short Dupont Wire
@@ -94,7 +107,7 @@ Use a short Dupont Wire. 6812 RGB LED: Pin IO26.
 ![TemplateH](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20H1.2.png)
 
 
-**Template J:**
+## **Template J:**
 
 Find the following:
 - 2 long Dupont Wires
@@ -110,21 +123,21 @@ Use a long Dupont Wire. Buzzer Sensor: Pin IO25.
 ![TemplateJ](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20J2.2.png)
 
 
-**Template F:**
+## **Template F:**
 
 Wire the Servo wire. Wire to Pin IO5.
 
 ![TemplateF](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20F1.1.png)
 ![TemplateF](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20F1.2.png)
 
-**Template M:**
+## **Template M:**
 
 Wire the Servo wire. Wire to Pin IO13.
 
 ![TemplateM](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20M1.1.png)
 ![TemplateM](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20M1.2.png)
 
-**Power Wiring:**
+## **Power Wiring:**
 
 Plug in the power from the battery holder to the ESP32.
 
@@ -132,10 +145,12 @@ Plug in the power from the battery holder to the ESP32.
 
 This is what the finished wiring looks like:
 
-[FinishedWiring](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/FinishedWiring.jpeg)
+** Finished Product:**
+
+![FinishedWiring](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/FinishedWiring.jpeg)
 
 
 [Back to Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
 
-
+---
 
