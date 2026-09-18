@@ -6,13 +6,14 @@
 
 ## Table of Contents
 
-- [Template I Wiring](#template-i)
-- [Template K Wiring](#template-k)
-- [Template H Wiring](#template-h)
-- [Template J Wiring](#template-j)
-- [Template F Wiring](#template-f)
-- [Template M Wiring](#template-m)
-- [Power Wiring](#power-wiring)
+- [Template I Wiring - Temperature and Humidity Sensor, Yellow LED Module, Steam Sensor, Fan](#template-i)
+- [Template K Wiring - PIR Motion Sensor, Button Modules, RFID Module, LCD1602 Display](#template-k)
+- [Template H Wiring - 6812 RGB LED](#template-h)
+- [Template J Wiring - Gas Sensor, Buzzer Sensor](#template-j)
+- [Template F Wiring - Window Servo](#template-f)
+- [Template M Wiring - Door Servo](#template-m)
+- [Power Wiring - Plug In](#power-wiring)
+
 
 ---
 
@@ -45,7 +46,6 @@ Use a short Dupont Wire. Temperature and Humidity Sensor: Pin IO17.
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I1.2.png" width="48%" />
 </p>
 
-
 Use a short Dupont Wire. Yellow LED Module: Pin IO12.
 
 <p align="center">
@@ -64,7 +64,7 @@ Use a short Dupont Wire. Steam Sensor: Pin IO33.
 **REPLACE SECOND PICTURE WITH CORRECT WIRING**
 
 
-Use a Spread out dupont wire batch. IN- to IO18 and IN + to IO19. Wire as shown:
+Use a Spread out dupont wire batch. Fan IN- to IO18 and IN + to IO19. Wire as shown:
 
 <p align="center">
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I4.1.jpeg" width="48%" />
@@ -120,7 +120,6 @@ Use a Splicing Dupont Wire. LCD1602 Display: BUS I2C.
 </p>
 
 
-
 ## **Template H:**
 
 Find the following:
@@ -132,7 +131,6 @@ Use a short Dupont Wire. 6812 RGB LED: Pin IO26.
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20H1.1.png" width="48%" />
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20H1.2.png" width="48%" />
 </p>
-
 
 
 ## **Template J:**
@@ -147,7 +145,6 @@ Use a long Dupont Wire. Gas Sensor: Pin IO23.
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20J1.2.png" width="48%" />
 </p>
 
-
 Use a long Dupont Wire. Buzzer Sensor: Pin IO25.
 
 <p align="center">
@@ -158,7 +155,7 @@ Use a long Dupont Wire. Buzzer Sensor: Pin IO25.
 
 ## **Template F:**
 
-Wire the Servo wire. Wire to Pin IO5.
+Wire the Window Servo wire. Wire to Pin IO5.
 
 <p align="center">
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20F1.1.png" width="48%" />
@@ -168,7 +165,7 @@ Wire the Servo wire. Wire to Pin IO5.
 
 ## **Template M:**
 
-Wire the Servo wire. Wire to Pin IO13.
+Wire the Door Servo wire. Wire to Pin IO13.
 
 <p align="center">
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20M1.1.png" width="48%" />
