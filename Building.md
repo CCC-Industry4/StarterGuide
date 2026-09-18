@@ -2,7 +2,11 @@
 
 # Building Guide
 
-**1. Put together the 'K' template:**
+Table of Contents
+- [1.](##1. Put together the 'K' template:)
+
+
+##1. Put together the 'K' template:
 
 Find the following items:
 - 12 C 1602 LCD Display Module
@@ -295,7 +299,6 @@ Test if the "door" is able to move smoothly by moving it with your finger. If it
 ![ConnectionGE](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Connections/Connection%20GE6.jpeg)
 
 
-
 **19. Add on the 'C' gear:**
 
 ![TemplateC](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20C1.jpeg)
@@ -309,8 +312,9 @@ Move the "door" so it lines up with template 'C' as shown. Then, simply push the
 Find the following:
 - 2 T-shaped wooden connectors
 
-Add picture before connection
-Add picture after connection
+![Template L](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20L1.jpeg)
+![Template L](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20L2.jpeg)
 
-Add link to wiring part
 
+
+[Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)

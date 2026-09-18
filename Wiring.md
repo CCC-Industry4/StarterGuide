@@ -1,6 +1,6 @@
 [Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 
-# Wiring
+# Wiring Guide
 
 Inventory:
 - 5 short Dupont Wires
@@ -34,7 +34,7 @@ Use a short Dupont Wire. Yellow LED Module: Pin IO12.
 ![TemplateI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I2.2.png)
 
 
-Use a short Dupont Wire. Steam Sensor: Pin IO33.
+Use a short Dupont Wire. Steam Sensor: Pin IO33. 
 
 ![TemplateI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I3.1.png)
 ![TemplateI](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I3.2.png)
@@ -132,7 +132,7 @@ Plug in the power from the battery holder to the ESP32.
 
 This is what the finished wiring looks like:
 
-IMAGE
+[FinishedWiring](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/FinishedWiring.jpeg)
 
 
 [Back to Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
