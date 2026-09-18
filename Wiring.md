@@ -1,18 +1,20 @@
 [Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
+
 [Back to Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
 
 # Wiring Guide
 
 ## Table of Contents
 
-- [Template I](#template-i)
-- [Template](#template-k)
-- [Template](#template-h)
-- [Template](#template-j)
-- [Template](#template-f)
-- [Template](#template-m)
-- [Template](#power-wiring)
+- [Template I Wiring](#template-i)
+- [Template K Wiring](#template-k)
+- [Template H Wiring](#template-h)
+- [Template J Wiring](#template-j)
+- [Template F Wiring](#template-f)
+- [Template M Wiring](#template-m)
+- [Power Wiring](#power-wiring)
 
+---
 
 **Inventory:**
 - 5 short Dupont Wires
@@ -28,7 +30,7 @@ The left image shows the regular Dupont Wires, the middle image shows the Spread
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Power%20Wiring.png" width="30%" />
 </p>
 
----
+
 
 ## **Template I:**
 
@@ -145,7 +147,7 @@ Plug in the power from the battery holder to the ESP32.
 
 This is what the finished wiring looks like:
 
-** Finished Product:**
+**Finished Product:**
 
 ![FinishedWiring](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/FinishedWiring.jpeg)
 

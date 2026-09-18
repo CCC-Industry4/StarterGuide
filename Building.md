@@ -4,6 +4,21 @@
 
 # Building Guide
 
+
+
+| Steps 1 – 10 | Steps 11 – 20 |
+| :--- | :--- |
+| - [Step 1. K Template](#1-put-together-the-k-template) | - [Step 11. Connect Template K and F](#11-connect-template-k-and-f) |
+| - [Step 2. I Template](#2-put-together-the-i-template) | - [Step 12. Connect Template A](#12-connect-to-template-a) |
+| - [Step 3. J Template](#3-put-together-the-j-template) | - [Step 13. Connect Template M, H, and J](#13-connect-to-template-m-and-h-and-j) |
+| - [Step 4. H Template](#4-put-together-the-h-template) | - [Step 14. Secure Template H Connection](#14-secure-the-connection) |
+| - [Step 5. F Template](#5-put-together-the-f-template) | - [Step 15. Connect Template I](#15-connect-to-template-i) |
+| - [Step 6. N Template](#6-add-on-the-n-template) | - [Step 16. Secure Template I Connection](#16-secure-the-connection) |
+| - [Step 7. P Gear](#7-add-on-the-p-gear) | - [Step 17. Connect Template G and E](#17-connect-to-template-g-and-e) |
+| - [Step 8. M Template](#8-put-together-the-m-template) | - [Step 18. Secure M Template Connection](#18-secure-the-connection) |
+| - [Step 9. M Template Servo](#9-add-on-the-servo) | - [Step 19. C Gear](#19-add-on-the-c-gear) |
+| - [Step 10. D Gear](#10-add-on-the-d-gear) | - [Step 20. Connect Template L](#20-connect-to-template-1) |
+
 ## Table of Contents
 - [Step 1.](#1-put-together-the-k-template)
 - [Step 2.](#2-put-together-the-i-template)
