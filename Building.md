@@ -5,6 +5,7 @@
 # Building Guide
 
 
+## Table of Contents
 
 | Steps 1 – 10 | Steps 11 – 20 |
 | :--- | :--- |
@@ -17,31 +18,13 @@
 | - [Step 7. P Gear](#7-add-on-the-p-gear) | - [Step 17. Connect Template G and E](#17-connect-to-template-g-and-e) |
 | - [Step 8. M Template](#8-put-together-the-m-template) | - [Step 18. Secure M Template Connection](#18-secure-the-connection) |
 | - [Step 9. M Template Servo](#9-add-on-the-servo) | - [Step 19. C Gear](#19-add-on-the-c-gear) |
-| - [Step 10. D Gear](#10-add-on-the-d-gear) | - [Step 20. Connect Template L](#20-connect-to-template-1) |
+| - [Step 10. D Gear](#10-add-on-the-d-gear) | - [Step 20. Connect Template L](#20-connect-to-template-l) |
 
-## Table of Contents
-- [Step 1.](#1-put-together-the-k-template)
-- [Step 2.](#2-put-together-the-i-template)
-- [Step 3.](#3-put-together-the-j-template)
-- [Step 4.](#4-put-together-the-h-template)
-- [Step 5.](#5-put-together-the-f-template)
-- [Step 6.](#6-add-on-the-n-template)
-- [Step 7.](#7-add-on-the-p-gear)
-- [Step 8.](#8-put-together-the-m-template)
-- [Step 9.](#9-add-on-the-servo)
-- [Step 10.](#10-add-on-the-d-gear)
-- [Step 11.](#11-connect-template-k-and-f)
-- [Step 12.](#12-connect-to-template-a)
-- [Step 13.](#13-connect-to-template-m-and-h-and-j)
-- [Step 14.](#14-secure-the-connection)
-- [Step 15.](#15-connect-to-template-i)
-- [Step 16.](#16-secure-the-connection)
-- [Step 17.](#17-connect-to-template-g-and-e)
-- [Step 18.](#18-secure-the-connection)
-- [Step 19.](#19-add-on-the-c-gear)
-- [Step 20.](#20-connect-to-template-l)
+
 
 ---
+
+
 
 ## **1. Put together the 'K' template:**
 
@@ -348,13 +331,14 @@ Move the "door" so it lines up with template 'C' as shown. Then, simply push the
 
 Connecting Template L is optional since it is easier to access the reset button with it off. Finish the wiring prior to attaching it.
 
-[Go to Wiring Guide:](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)
+[Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)
 
 
 Find the following:
 - 2 T-shaped wooden connectors
 
 ![Template L](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20L1.jpeg)
+
 ![Template L](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20L2.jpeg)
 
 ---
