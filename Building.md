@@ -155,7 +155,7 @@ Rip off the layer covering it on both sides. Do not use a screw to tighten. Inst
 ## **7. Add on the 'P' gear:**
 
 Find the following items:
-- 1 Acrylic Gear Labled P
+- 1 Acrylic Gear Labeled P
 - 1 Control horn (in a servo bag)
 - 4 M1.4 6MM Self-tapping Screws
 
