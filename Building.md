@@ -119,7 +119,7 @@ Find the following items:
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20H2.jpeg" width="48%" />
 </p>
 
-![TemplateH](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/building/Templates/Template%20H2.jpeg)
+![TemplateH](https://github.com/CCC-Industry4/StarterGuide/blob/main/images/building/Templates/Template%20H3.jpeg)
 
 ## **5. Put together the 'F' template:**
 
