@@ -27,12 +27,12 @@
 
 The left image shows the 3-pin connectors, the middle image shows the 4-pin loose connector, and the right image shows the 4-pin connectors.
 
-<p align="center">
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Dupont.jpeg" width="30%;height: 250px; object-fit: cover;" />
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Spread.jpeg" width="30%" />
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Splicing.jpeg" width="30%" />
-</p>
 
+<p align="center">
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Dupont.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Spread.jpeg" width="48%" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Splicing.jpeg" width="48%" />
+</p>
 
 
 ## **Template I:**
