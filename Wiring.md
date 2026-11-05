@@ -68,7 +68,7 @@ Use a 4-pin loose connector. Fan IN- to IO18 and IN + to IO19. Wire as shown:
 
 <p align="center">
   <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I4.1.jpeg" style=" width:48%;height: 250px; object-fit: cover;" />
-  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I3.2.png" style=" width:48%;height: 250px; object-fit: cover;" />
+  <img src="https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/Wiring%20I4.2.jpeg" style=" width:48%;height: 250px; object-fit: cover;" />
 </p>
 
 
