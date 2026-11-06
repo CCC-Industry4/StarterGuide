@@ -5,17 +5,12 @@
 ---
 
 1. **Instructions for building the Smart Home:**
-   - See the [Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
-   - See the official [Keyestudio Smart Home Guide](https://docs.keyestudio.com/projects/KS5009/en/latest/docs/index.html).
+   - See the [Building Guide (__Highly Recommended__)](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
+   - See the official [Keyestudio Smart Home Guide (Deprecated)](https://docs.keyestudio.com/projects/KS5009/en/latest/docs/index.html).
 
     Keep in mind that the Keyestudio Guide incorrectly wired the Steam Sensor to IO34, it should be wired to IO33.
     
-
-
-2. **Downloading Libraries and Sample Code:** (Optional)
-   - Visit the [Keyestudio Smart Home Kit for ESP32 repository](https://github.com/keyestudio/KS5009-Keyestudio-Smart-Home-Kit-for-ESP32) to download necessary libraries and sample code.
-
-3. **Pin Connections:**
+2. **Pin Connections:**
 
     - See the [Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)
 
@@ -35,24 +30,5 @@
    - **Buzzer Sensor**: Pin **IO25**
    - **Servo (Windows)**: Pin **IO5**
    - **Servo (Doors)**: Pin **IO13**
-
-4. **Arduino Code and Libraries:**
-   The Arduino directory contains the necessary libraries and code for setting up the Smart Home: [Arduino Code and Libraries](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main/Arduino).
-
-    A. **Arduino IDE Setup:**
-
-If the Arduino IDE is not yet installed and set up, follow these steps:
-
-   1. **Install the Driver** see: https://docs.keyestudio.com/projects/KS5009/en/latest/docs/Arduino/arduino.html
-   2. **Add the ESP32 Environment** See section 2.2 of the webpage above.
-   3. Select **ESP32 Dev Module** as the board: `Tools > Board > esp32 > ESP32 Dev Module`
-
-      B. Add Libraries to Arduino IDE:
-
-         - Include all the libraries from the `libs` folder into the Arduino IDE.
-
-      C. Upload the Arduino Code:
-
-         - Upload the `Arduino.ino` file to your Smart Home system.
 
 ---
