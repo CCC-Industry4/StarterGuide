@@ -1,6 +1,6 @@
 [Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 
-[Back to Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
+[Back to Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/main/Building.md)
 
 # Wiring Guide
 
@@ -185,7 +185,7 @@ Plug in the power from the battery holder to the ESP32.
 ![FinishedWiring](https://github.com/CCC-Industry4/IgnitionProject/blob/Cane/images/wiring/FinishedWiring.jpeg)
 
 
-[Back to Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
+[Back to Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/main/Building.md)
 
 ---
 

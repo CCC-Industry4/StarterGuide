@@ -5,7 +5,7 @@
 ---
 
 1. **Instructions for building the Smart Home:**
-   - See the [Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Building.md)
+   - See the [Building Guide](https://github.com/CCC-Industry4/StarterGuide/blob/main/Building.md)
    - See the official [Keyestudio Smart Home Guide](https://docs.keyestudio.com/projects/KS5009/en/latest/docs/index.html).
 
     Keep in mind that the Keyestudio Guide incorrectly wired the Steam Sensor to IO34, it should be wired to IO33.

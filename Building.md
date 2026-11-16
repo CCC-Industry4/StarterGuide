@@ -1,6 +1,6 @@
 [Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 
-[Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)
+[Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/main/Wiring.md)
 
 # Building Guide
 
@@ -331,7 +331,7 @@ Move the "door" so it lines up with template 'C' as shown. Then, simply push the
 
 Connecting Template L is optional since it is easier to access the reset button with it off. Finish the wiring prior to attaching it.
 
-[Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/Alt-Guide/Wiring.md)
+[Wiring Guide](https://github.com/CCC-Industry4/StarterGuide/blob/main/Wiring.md)
 
 
 Find the following:
