@@ -6,32 +6,30 @@
 1. Connect the demonstration PC to the Pi. Wi-Fi can be used on a PC or smartphone. The disadvantages of using Wi-Fi are that you will lose access to the internet. Connect to the following:
 SSID (service set identifier): IT4Project
 Password: IOT12345
-2. Plug in and powerup Smart Home.
-3. Connect to the wifi address displayed on the Smart Home's LCD using a phone or laptop. 
-	![LCD with URL](https://github.com/user-attachments/assets/2a204688-add5-4016-b089-6b25a3d443a6)
-	![PXL_20260127_231858364](https://github.com/user-attachments/assets/44c8bdfe-92b0-4437-a84a-c9ed12e0df13)
+2. Plug in and power up Smart Home.
+3. Connect to the Wi-Fi address displayed on the Smart Home's LCD using a phone or laptop. 
+	![Wi-Fi toast](./images/building/configEntropy.png)
+	![Config Screen](./images/building/configScreen.png)
 
-	SSID (service set identifier): Config_ESP32
-	Password: 012345678
+Enter the SSID and password that appear on the screen
 
-	If this does not appear, reset the house while holding the two pushbuttons on the smarthome to put the device back into setup mode.
+If this does not appear, reset the house while holding the two push buttons on the smart home to put the device back into setup mode.
 
-5. Configure namespace of Smart Home using a web browser.
-	While connected to Config_ESP32, navigate to the IP listed on the LCD screen using a web browser.
-	![PXL_20260127_231935446](https://github.com/user-attachments/assets/be1445f4-0e8d-4762-bbfa-b91336e50bf9)
+4. Configure namespace of Smart Home using a web browser.
+	While connected to the SSID, navigate to the IP listed on the LCD screen using a web browser.
+	![PXL_20260127_231935446](./images/building/IPScreen.png)
 
-      ![Smart home Configuration page](https://github.com/user-attachments/assets/7aa42ee4-e932-437f-963c-6309f6642a7c)
-
+      ![Smart home Configuration page](./images/building/configPI.png)
+      *The MQTT IP should match the one in the above picture unless you are hosting on a PC instead of a PI*
   -  Ask your instructor for the neighborhood and home number:
-      -  Neighborhood number- should be the same for the whole class.
-      -  Home number- must be unique for each home in the neighborhood.
+      -  Neighborhood number **should** be the same for the whole class.
+      -  Home number **must** be unique for each home in the neighborhood.
       -  Unless otherwise told, leave the other settings as their defaults.
-        ![Finalize](https://github.com/user-attachments/assets/fa547931-8f3c-4cdc-b884-9069e87cc1b2)
-	  - **Click Finalize and Reset ESP32.**
+      - **Finalize and Reset ESP32.**
 
 5. **Verify** that your Smart Home is working. 
   -  **Press CLOUD** then **LOCAL** buttons on the SCADA to cause the dropdown to include the new number.
   -  **Select** the new home number in the dropdown.
-  -  If you see the count increasing simultaneously on the house and on the SCADA system on the web browser, you have successfully set-up the Arduino Smart Home.
-6. You can not have two smart homes with the same namespace.  If your home doesn’t connect, look at the namespace of working SmartHome. 
+  -  If you see the count increasing simultaneously on the house and on the SCADA system on the web browser, you have successfully set up the Arduino Smart Home.
+6. You can not have two smart homes with the same namespace.  If your home doesn’t connect, look at the namespace of working Smart Home. 
 7. Demonstrate to your instructor.

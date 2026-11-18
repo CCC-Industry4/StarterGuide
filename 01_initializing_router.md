@@ -1,7 +1,7 @@
 [Back to Main Menu](https://github.com/CCC-Industry4/IIOT-4.0-Project/tree/main)
 # Initialize Router
 ---
-Please this this [Helpful Link](https://www.tomshardware.com/how-to/static-ip-raspberry-pi) on how to Set a Static IP Address on Raspberry Pi
+Please see this [Helpful Link](https://www.tomshardware.com/how-to/static-ip-raspberry-pi) on how to Set a Static IP Address on Raspberry Pi
 
 In order to run the project, you must have a router to avoid firewalls. The way we chose to do this was to buy a cheap router and configure it to this setting:  
 **Name:** IT4 Project  
@@ -10,8 +10,8 @@ In order to run the project, you must have a router to avoid firewalls. The way 
 
 
 The Raspberry Pi must also be configured with a static IP address. You can either do that through the router or dhcpcd.conf file. A helpful article for the second method is included in the link above.  
-The router being used for this project is [GL.iNet Shadow](https://store-us.gl-inet.com/products/gl-ar300m16-mini-smart-router), but most any router could be used.
-The steps to setup the router are as follows:  
+The router being used for this project is [GL.iNet Shadow](https://store-us.gl-inet.com/products/gl-ar300m16-mini-smart-router), but almost any router could be used.
+The steps to set up the router are as follows:  
 1. Power on: Plug the micro USB power cable into the power port of the router using a standard 5V/2A power adapter.
 2. Connect via Wi-Fi:
 The SSID is printed on the bottom label of the router with following format:
