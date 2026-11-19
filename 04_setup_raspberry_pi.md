@@ -10,8 +10,8 @@
    After the Ignition SCADA software has started the Pi should have the following webpage open:
    ![ignition startup screen](./images/building/PICropped.png)
 
-2. **Connect** the demonstration PC to the Pi. You can use either the following methods to connect:
-   - **Ethernet cable** connected from PC to a small gray Wi-Fi router on the port labeled as WAN (actually configured as a second LAN port), providing a straightforward method to access the system. Ensure your Ethernet settings are configured to obtain an IP address automatically (refer to troubleshooting for assistance with this setting). If administrative privileges are not available, consider using the Wi-Fi connection instead.
+2. **Connect** the demonstration PC to the Pi. You can use either of the following methods to connect:
+   - **Ethernet cable** connected from PC to a small gray Wi-Fi router on the port labeled as WAN (actually configured as a second LAN port), providing a straightforward method to access the system. Ensure your Ethernet settings are configured to obtain an IP address automatically (refer to [troubleshooting](https://github.com/CCC-Industry4/StarterGuide/blob/2bf8fd24f25495de3f9bb1f01953807beb0b81df/08_troubleshooting.md) for assistance with this setting). If administrative privileges are not available, consider using the Wi-Fi connection instead.
    - **Wi-Fi** can be used on a PC or smartphone. The disadvantages of using Wi-Fi are that you will lose access to the internet. Connect to the following:
       - **SSID (service set identifier):** IT4Project
       - **Password:** IOT12345

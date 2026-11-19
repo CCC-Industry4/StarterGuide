@@ -28,11 +28,5 @@
 7.  Use Ignition SCADA to control outputs: yellow LED, color LED and buzzer.
 8.  Now observe other homes in the neighborhood by switching the Smart Home number in the SCADA.  Try controlling the outputs of those homes.
 9.  To observe data published to cloud press the CLOUD button.  If other neighborhoods are sending data to the cloud you should be able to see those neighborhoods in the dropdown.
-10. In the top left corner of the Ignition SCADA screen, you'll find an icon with three bars. Click this icon to open the screen selection menu. Explore the menu to discover additional functions based on your connected devices, such as:
-    -  Tutorial: Provides guidance on getting started with the system.
-    -  SMART HOME: Allows interaction with Smart Homes on smaller displays.
-    -  OBJECT DETECTION: Displays the count of people when a camera is connected to the system.
-    -  CONVEYOR: Allows interaction with Smart Conveyors in the system.
-    -  BIG SCREEN: Displays a combination of all the screens listed above.
-11. When you are done exploring the system, demonstrate functions that you have learned to your instructor. 
+10. When you are done exploring the system, demonstrate functions that you have learned to your instructor. 
 
